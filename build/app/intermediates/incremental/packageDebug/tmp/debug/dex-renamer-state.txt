@@ -1,0 +1,4 @@
+#Fri May 29 18:15:08 SGT 2020
+base.0=C\:\\Users\\Agung Wisnu\\AndroidStudioProjects\\BelajarSqllite\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
